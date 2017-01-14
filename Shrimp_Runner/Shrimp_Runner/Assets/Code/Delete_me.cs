@@ -6,6 +6,7 @@ public class Delete_me : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        Debug.Log("Test");
 		
 	}
 	
