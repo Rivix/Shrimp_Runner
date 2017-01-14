@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FCE47E43-D6A2-FAA3-4653-884C7CAEB4AB}") = "Shrimp_Runner", "Assembly-CSharp.csproj", "{19F9CC83-465C-92BA-14AA-1C7FAA025A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F9CC83-465C-92BA-14AA-1C7FAA025A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F9CC83-465C-92BA-14AA-1C7FAA025A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F9CC83-465C-92BA-14AA-1C7FAA025A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F9CC83-465C-92BA-14AA-1C7FAA025A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
